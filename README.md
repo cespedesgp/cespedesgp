@@ -37,6 +37,9 @@ Minhas estatísticas do Github.
 
 ## Linguagens que utilizo
 Veja um pouco das linguagens/ferramentas que estou utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima.
+
+![Amostras de Código](https://github.com/cespedesgp/cespedesgp/tree/main/amostras)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
