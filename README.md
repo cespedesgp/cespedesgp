@@ -2,7 +2,7 @@
 ## Me deixe falar um pouco sobre mim 👋
 Sou formado em Estatística pela Universidade Federal do Amazonas. Sou um entusiasta de tecnologia e desenvolvimento pessoal.
 - 🔭 Atualmente trabalho com:
-  - Gerenciamento do **Processamento** de Informações Ambulatoriais e Hospitalares do SUS do Estado do Amazonas.
+  - Gerenciamento do **Processamento** de Informações Ambulatoriais e Hospitalares dos Prestadores que atendem SUS no Estado do Amazonas.
   - Desenvolvendo o *Business Intelligence* do Departamento de Regulação, Controle e Avaliação (Decav) da SES-AM.
 - 🌱 Estudos em andamento:
   - Desenvolvimento Web
