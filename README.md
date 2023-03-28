@@ -35,8 +35,8 @@ Minhas estatísticas do Github.
 [![Minha Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=cespedesgp&show_icons=true&theme=radical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cespedesgp&layout=compact&theme=radical)](https://github.com/cespedesgp/github-readme-stats)
 
-## Que tal conhecer algumas abordagens da Estatística?
-Minhas estatísticas do Github.
+## Linguagens que utilizo
+Veja um pouco das linguagens que utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima. 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
