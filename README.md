@@ -36,7 +36,7 @@ Minhas estatísticas do Github.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cespedesgp&layout=compact&theme=radical)](https://github.com/cespedesgp/github-readme-stats)
 
 ## Linguagens que utilizo
-Veja um pouco das linguagens/ferramentas que utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima.
+Veja um pouco das linguagens/ferramentas que estou utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima.
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
