@@ -32,8 +32,8 @@
 ## Que tal conhecer algumas abordagens da Estatística?
 Minhas estatísticas do Github.
 
-[![Minha Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=cespedesgp&show_icons=true&count_private=true)](https://github.com/cespedesgp/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cespedesgp&layout=compact&count_private=true)](https://github.com/cespedesgp/github-readme-stats)
+[![Minha Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=cespedesgp&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cespedesgp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens que utilizo
 Veja um pouco das linguagens/ferramentas que estou utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima.
