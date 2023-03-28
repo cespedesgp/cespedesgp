@@ -4,9 +4,10 @@ Sou formado em Estatística pela Universidade Federal do Amazonas. Sou um entusi
 - 🔭 Atualmente trabalho com:
   - Gerenciamento do **Processamento** de Informações Ambulatoriais e Hospitalares dos Prestadores que atendem SUS no Estado do Amazonas.
   - Desenvolvendo o *Business Intelligence* do Departamento de Regulação, Controle e Avaliação (Decav) da SES-AM.
-- 🌱 Estudos em andamento:
+- 🌱 Estudos em andamento e constantes atualizações:
+  - Estatística, sempre!
   - Desenvolvimento Web
-  - Linguagem de Programação: Python, C, JavaScript (nodejs)
+  - Linguagem de Programação: R, SQL, Python, C, JavaScript (nodejs) entre outras ferramentas/tecnologias que vejo que podem me ajudar, não temo a mudança desde que seja para melhor, tal como, não temo o retorno de uma solução que estava dando certo. 
   - Automação de rotinas de trabalho utilizando Python
   - Git/Github
 - 👯 Procuro colaborar com:
