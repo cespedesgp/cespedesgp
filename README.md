@@ -36,7 +36,7 @@ Minhas estatísticas do Github.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cespedesgp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens que utilizo
-Veja um pouco das linguagens/ferramentas que estou utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima.
+Veja um pouco das linguagens/ferramentas que estou utilizando/aprendendo em meus projetos pessoais e alguns do trabalho (em repositórios privados) veja as estatísticas acima. Farei algumas ressalvas aqui, pois nem todos os códigos estão públicos, logo, irão influênciar nas Estatísticas do meu github, considere também o corte apresentado nos commits (2023).
 
 ![Amostras de Código](https://github.com/cespedesgp/cespedesgp/tree/main/amostras)
 
