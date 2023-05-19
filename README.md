@@ -7,7 +7,7 @@
 Formado em Estatística pela Universidade Federal do Amazonas. Sou um entusiasta de tecnologia e desenvolvimento pessoal.
 - 🔭 Atualmente trabalho com:
   - Gerenciamento do **Processamento** de Informações Ambulatoriais e Hospitalares dos Prestadores que atendem SUS no Estado do Amazonas.
-  - Desenvolvendo o *Business Intelligence* do Departamento de Regulação, Controle e Avaliação (Decav) da SES-AM.
+  - Desenvolvendo o *Business Intelligence* do Departamento de Regulação, Avaliação e Controle Assistencial (DERAC) da SES-AM.
 - 🌱 Estudos em andamento e constantes atualizações:
   - Estatística, sempre!
   - Desenvolvimento Web
